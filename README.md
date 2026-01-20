@@ -1,141 +1,156 @@
-# Saanjanli belgavi
+# 👋 Hi, I'm **Saanjanli Belgavi**
 
-## 🚀 **About Me**  
+## 🚀 About Me  
 
-**Growing in programming**  
----
-Full Stack Developer with 1 year of professional experience in designing, developing, and maintaining scalable web applications. Proficient in Java, Spring Boot, React, Node.js, and MySQL with strong expertise in building RESTful APIs, responsive user interfaces, and secure backend systems. Experienced in working with Git-based workflows, Dockerized applications, and cloud-hosted environments. Demonstrated ability to collaborate in agile teams, optimize application performance, and deliver high-quality, production-ready solutions. Passionate about continuous improvement in full-stack architecture, DevOps practices, and modern software engineering. 
+💻 **Full Stack Developer | Computer Science Student**  
+
+I am a passionate **Full Stack Developer** with **1 year of professional experience** in designing, developing, and maintaining scalable web applications. I specialize in building **secure backend systems**, **responsive user interfaces**, and **RESTful APIs** using modern technologies.
+
+I have hands-on experience with **Java, Spring Boot, React, Node.js, MySQL**, and cloud-native tools. I thrive in **agile environments**, enjoy optimizing application performance, and consistently deliver **production-ready solutions**.  
+
+I am deeply interested in **modern software engineering**, **DevOps practices**, and **emerging technologies**, with a strong mindset for continuous learning and improvement.
+
 ---
 
 🎓 **Computer Science Student**  
-💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
+💡 **Emerging Technologies Enthusiast**  
+🖥️ **Creative Coder**  
+📚 **Lifelong Learner**
 
 ---
 
-### :chart_with_upwards_trend: **Stats**  
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saanjalibelgavi&show_icons=true&theme=radical)
-<br>
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saanjalibelgavi&layout=compact&theme=radical)
-<br>
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saanjalibelgavi&theme=radical)
 
+---
 
+## 🛠️ Skills  
 
+### 💻 Programming Languages  
 
+<img align="left" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
+<img align="left" alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+<img align="left" alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+<img align="left" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="PHP" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="LaTeX" width="45px" src="https://democracyobserver.org/images/latex-logo.png"/>
+<br/><br/>
 
-## 🛠️ **Skills**  
+---
 
-### Programming Languages  
-#### :paperclip: Languages  
+### ⚙️ Frameworks & Tools  
 
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-<img align="left" alt="JS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="mySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="LaTeX" width="50px" style="padding-right:10px;" src="https://democracyobserver.org/images/latex-logo.png"/>
-<br>
-<br>
+<img align="left" alt="Spring Boot" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+<img align="left" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>  
+<img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="MongoDB" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>  
+<img align="left" alt="Hadoop" width="45px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"/>  
+<img align="left" alt="Hive" width="45px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"/>  
+<img align="left" alt="Spark" width="45px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"/>
+<br/><br/>
 
-### Frameworks & Tools  
-#### :paperclip: Frameworks & Tools  
+---
 
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Spring Boot" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>  
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>  
-<img align="left" alt="Hadoop" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"/>  
-<img align="left" alt="Hive" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"/>  
-<img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"/>
+## 🌐 Domains of Interest  
 
-<br>
-<br>
-
-<br>
-<br>
-
-
-### Domains  
-- Full Stack Development  
+- Full Stack Web Development  
 - Blockchain Development  
-- Deep Learning
+- Machine Learning & Deep Learning  
+- MLOps & DevOps  
 
 ---
 
+## 📂 Projects  
 
-
-## 📂 **Projects**  
-
-### 🎨 [Image Inpainting using YOLOv8 and LaMa Model](https://ieeexplore.ieee.org/document/10593536/)  
-- Presented at **IEEE sponsored 5th INTERNATIONAL CONFERENCE OF EMERGING TECHNOLOGIES 2024** – Jain College of Engineering, Belgaum, Karnataka, India  
-- Developed an AI-based model for image restoration.  
-- Accepted at **ICICV Jaipur**, **INCET Belgaum**, and **CML Sikkim** conferences.
-
-### 🩺 [Doctor-Patient Portal](https://github.com/Kartik-Patil/Doctor-Patient-Portal)  
-- A Java Full Stack web application for enhancing healthcare communication.  
-- Features: Appointment scheduling, medical records management, and secure messaging.
-
-### 🎲 [Decentralized Crypto Casino](https://github.com/Kartik-Patil/Crypto-Casino)  
-- Created a blockchain-based casino with Ethereum integration.  
-- Features: NFT-based game assets and decentralized gambling mechanics.
-
-### 🩻 [Deep Learning for Thoracic Disease Diagnosis](https://github.com/Kartik-Patil/NIH-Chest-X-rays-thoracic-disease-Classification)  
-- Presented at **IEEE sponsored 8th IEEE CSITSS 2024** – RV College of Engineering, Bengaluru, Karnataka, India  
-- Built a DenseNet121-based CNN model for detecting thoracic diseases from X-rays.  
-- Focused on interpretability and performance optimization.
-
-### 🌍 [NGO-Philanthropy Platform](https://github.com/Kartik-Patil/NGO-Philantropy-PAC-Hack)  
-- **This website was built in PacHack National Level Hackathon hosted by Presidency University Bangalore**
-- Developed a web platform connecting **NGOs** and **philanthropists** for **donations** and **charitable activities**.  
-- Features: NGO and philanthropist registration, donation portal, matching system, and transparency in charity tracking.
-
-### 🦠 [Cervical Cancer Image Classification](https://github.com/Kartik-Patil/Cervical-Cancer-Image-Classification)  
-- A deep learning project aimed at improving **Squamous Cell Carcinoma (SCC)** classification using advanced **ensemble techniques**.  
-- Utilizes the **Herlev dataset** (917 images) with multi-cell and single-cell samples.  
-- **Transfer learning** applied with  models such as **ResNet50V2**, **DenseNet121**, **DenseNet169**, **XceptionNet**, and **InceptionResNetV2**.  
-- **Ensemble technique** boosts model accuracy to **97%+**, making it a reliable tool for early **cervical cancer detection**.
-
-### 🤖 [AutoML-MLOps Platform Prototype](https://github.com/Hack2Future-IIIT-Dharwad/Visionary_Innovators)  
--  **This website was built in Hack2Future National Level Hackathon hosted by IIIT Dharwad**
-- Developed a scalable **AutoML-MLOps platform** that automates the machine learning lifecycle, simplifying data preprocessing, model training, and deployment.  
-- **Key Features**:  
-  - **Automated Data Preprocessing**: Data cleaning, feature engineering, and validation.  
-  - **AutoML Capabilities**: Automated model selection, hyperparameter optimization, and model evaluation.  
-  - **User-Friendly Interface**: Provides real-time insights and easy data management.  
-  - **Core Components**:  
-    - **Data Processing Module**: Handles data ingestion and preprocessing.  
-    - **AutoML Engine**: Leverages **h2o.ai** for automated modeling and hyperparameter tuning.  
-    - **Web Interface**: Displays model metrics and facilitates data upload.
+### 🎨 Image Inpainting using YOLOv8 & LaMa  
+🔗 [IEEE Xplore Publication](https://ieeexplore.ieee.org/document/10593536/)  
+- Presented at **IEEE INCET 2024**, Jain College of Engineering, Belgaum  
+- AI-based image restoration using YOLOv8 and LaMa  
+- Accepted at **ICICV Jaipur**, **INCET Belgaum**, and **CML Sikkim**
 
 ---
 
-## 🎉 **Events Attended**  
-- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
-- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering  
-- 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad  
-- 🎓 **Certificate of Presentation at the 5th IEEE INCET 2024** – JAIN College of Engineering  
+### 🩺 Doctor–Patient Portal  
+🔗 [GitHub Repository](https://github.com/Kartik-Patil/Doctor-Patient-Portal)  
+- Java Full Stack healthcare platform  
+- Appointment scheduling, medical records, secure messaging  
 
 ---
 
-## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-Kartik%20Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kartikpatil08)  
-[![GitHub](https://img.shields.io/badge/-Kartik--Patil-black?style=flat&logo=github)](https://github.com/Saanjalibelgavi)  
-[![Instagram](https://img.shields.io/badge/-@btwitskaaru-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/btwitskaaru)  
-[![Email](https://img.shields.io/badge/-kartikpatilhrg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Saanjalibelgavi@gmail.com)
+### 🎲 Decentralized Crypto Casino  
+🔗 [GitHub Repository](https://github.com/Kartik-Patil/Crypto-Casino)  
+- Ethereum-based decentralized casino  
+- NFT-powered game assets and smart contracts  
 
 ---
 
-## 🌱 **Interests**  
-- Exploring **Emerging Technologies**  
-- Playing **Video Games** 🎮  
+### 🩻 Thoracic Disease Diagnosis using Deep Learning  
+🔗 [GitHub Repository](https://github.com/Kartik-Patil/NIH-Chest-X-rays-thoracic-disease-Classification)  
+- Presented at **IEEE CSITSS 2024**, RV College of Engineering  
+- DenseNet121-based CNN for X-ray disease detection  
+
+---
+
+### 🌍 NGO–Philanthropy Platform  
+🔗 [GitHub Repository](https://github.com/Kartik-Patil/NGO-Philantropy-PAC-Hack)  
+- Built during **PacHack National Hackathon**  
+- Platform connecting NGOs and philanthropists  
+- Donation tracking and transparency system  
+
+---
+
+### 🦠 Cervical Cancer Image Classification  
+🔗 [GitHub Repository](https://github.com/Kartik-Patil/Cervical-Cancer-Image-Classification)  
+- Ensemble deep learning achieving **97%+ accuracy**  
+- Models: ResNet50V2, DenseNet, Xception, InceptionResNetV2  
+
+---
+
+### 🤖 AutoML–MLOps Platform (Prototype)  
+🔗 [GitHub Repository](https://github.com/Hack2Future-IIIT-Dharwad/Visionary_Innovators)  
+- Built at **Hack2Future Hackathon – IIIT Dharwad**  
+- Automated data preprocessing, model training, deployment  
+- Powered by **H2O.ai AutoML**
+
+---
+
+## 🏆 Events & Achievements  
+
+- 🥇 PacHack National Level Hackathon – Presidency University  
+- 🏅 Hack2Future 32-Hour Hackathon – IIIT Dharwad  
+- 🎓 IEEE INCET 2024 – Research Presentation  
+- 🎓 IEEE CSITSS 2024 – Research Presentation  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpatil08)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Saanjalibelgavi)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/btwitskaaru)  
+📧 **Email:** kartikpatilhrg@gmail.com  
+
+---
+
+## 🌱 Interests  
+
+- Exploring Emerging Technologies  
+- Video Games 🎮  
 - Hiking 🥾  
-- Listening to **Music** 🎵  
-- Writing efficient **code** 💻
+- Music 🎵  
+- Writing Clean & Efficient Code 💻  
 
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
