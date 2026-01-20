@@ -123,14 +123,7 @@ I am deeply interested in **modern software engineering**, **DevOps practices**,
 - Automated data preprocessing, model training, deployment  
 - Powered by **H2O.ai AutoML**
 
----
-
-## 🏆 Events & Achievements  
-
-- 🥇 PacHack National Level Hackathon – Presidency University  
-- 🏅 Hack2Future 32-Hour Hackathon – IIIT Dharwad  
-- 🎓 IEEE INCET 2024 – Research Presentation  
-- 🎓 IEEE CSITSS 2024 – Research Presentation  
+ 
 
 ---
 
