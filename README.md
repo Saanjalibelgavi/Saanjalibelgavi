@@ -3,6 +3,7 @@
 ## 🚀 **About Me**  
 
 **Growing in programming**  
+---
 Full Stack Developer with 1 year of professional experience in designing, developing, and maintaining scalable web applications. Proficient in Java, Spring Boot, React, Node.js, and MySQL with strong expertise in building RESTful APIs, responsive user interfaces, and secure backend systems. Experienced in working with Git-based workflows, Dockerized applications, and cloud-hosted environments. Demonstrated ability to collaborate in agile teams, optimize application performance, and deliver high-quality, production-ready solutions. Passionate about continuous improvement in full-stack architecture, DevOps practices, and modern software engineering. 
 ---
 
