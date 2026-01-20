@@ -138,7 +138,6 @@ I am deeply interested in **modern software engineering**, **DevOps practices**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanjali-belgavi-50036226a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Saanjalibelgavi)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/btwitskaaru)  
 📧 **Email:** Saanjalibelgavi@gmail.com
 <br/>
 🌐 **Portfolio:** https://saanjalibelgavi.web.app/
